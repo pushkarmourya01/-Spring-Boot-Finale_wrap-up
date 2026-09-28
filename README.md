@@ -1,6 +1,5 @@
-# Spring Boot Finale Wrap-up
-
-A simple Spring Boot application with web starter dependency.
+# -Spring-Boot-Finale_wrap-up
+This is the final wrap-up of basic spring and also github learning
 
 ## Features
 - Spring Boot 3.2.0
